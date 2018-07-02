@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1530575754 source:d:\federicoalaniz\segundoparcial\segundoparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530575092 d:\federicoalaniz\segundoparcial\segundoparcial\arraylist.h
+
+1530575754 source:d:\federicoalaniz\segundoparcial\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1530569477 d:\federicoalaniz\segundoparcial\segundoparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
